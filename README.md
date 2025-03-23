@@ -10,6 +10,7 @@ Features:
 Installation Instructions:
 
   Step 1: Download the Extension Files
+  
     1. Clone or download this repository to your local machine.
           -- Click the green "Code" button on this GitHub page and select "Download ZIP".
           -- Extract the ZIP file to a folder on your computer.
