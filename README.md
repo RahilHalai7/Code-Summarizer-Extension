@@ -40,3 +40,5 @@
 
 ***Contributing***:
     If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or suggestions are welcome!
+
+Enjoy using Code Assist! If you have any questions or feedback, feel free to open an issue on GitHub.
