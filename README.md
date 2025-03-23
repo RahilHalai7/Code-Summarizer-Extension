@@ -1,13 +1,13 @@
 # CodeAssist: A Code Summarizer Extension
 Code Assist is a browser extension that allows you to summarize selected code snippets using the Gemini API. Simply select a piece of code on any webpage, and the extension will provide a concise summary and output explanation.
 
->> Features:
+Features:
   1. Code Summarization: Get a quick summary of any selected code snippet.
   2. Output Explanation: Understand the general output and functionality of the code.
   3. Easy to Use: Just select the code and let the extension do the rest.
 
 
->> Installation Instructions:
+Installation Instructions:
   Step 1: Download the Extension Files
     1. Clone or download this repository to your local machine.
           -- Click the green "Code" button on this GitHub page and select "Download ZIP".
