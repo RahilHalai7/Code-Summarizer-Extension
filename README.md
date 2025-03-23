@@ -31,11 +31,11 @@
 ***How to Use***:
 
      1. Select Code:
-     -- Navigate to any webpage with code snippets.
-     -- Highlight the code you want to summarize by clicking and dragging your mouse over it.
+          -- Navigate to any webpage with code snippets.
+          -- Highlight the code you want to summarize by clicking and dragging your mouse over it.
      2. Get Summary:
-     -- After selecting the code, the extension will automatically process it and display a summary in the popup.
-     3. View Results:
+          -- After selecting the code, the extension will automatically process it and display a summary in the popup.
+     3. View Results
      -- Click the Code Assist extension icon in the Opera toolbar to open the popup and view the summary.
 
 ***Contributing***:
