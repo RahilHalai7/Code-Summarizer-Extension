@@ -37,3 +37,7 @@
      -- After selecting the code, the extension will automatically process it and display a summary in the popup.
      3. View Results:
      -- Click the Code Assist extension icon in the Opera toolbar to open the popup and view the summary.
+
+***Contributing***:
+
+    If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or suggestions are welcome!
