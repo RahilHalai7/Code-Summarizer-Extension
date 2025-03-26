@@ -38,6 +38,9 @@
      3. View Results
           -- Click the Code Assist extension icon in the Opera toolbar to open the popup and view the summary.
 
+***Important Notes***:
+   - Requires your own free Gemini API key (replace "YOUR_GEMINI_API_KEY" in content.js)
+
 ***Contributing***:
     If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or suggestions are welcome!
 
